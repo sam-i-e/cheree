@@ -35,6 +35,7 @@ import { Component } from '@angular/core';
               <li><a href="#">Clothing</a></li>
               <li><a href="#">Shoes</a></li>
               <li><a href="#">Accessories</a></li>
+              <li><a href="#">Bags</a></li> 
               <!-- Add more dropdown items as needed -->
             </ul>
           </li>
