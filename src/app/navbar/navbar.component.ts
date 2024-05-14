@@ -18,7 +18,7 @@ import { Component } from '@angular/core';
           <li class="nav-item"><a href="#">KIDS</a></li>
           <li class="nav-item">
             <form class="navbar-search">
-              <input type="text" placeholder="Search for items, brands and inspiration">
+              <input type="text" placeholder="Looking for something?">
               <button type="submit"><i class="fa fa-search"></i></button>
             </form>
           </li>
