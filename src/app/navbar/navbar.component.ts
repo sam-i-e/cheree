@@ -15,6 +15,7 @@ import { Component } from '@angular/core';
         <ul class="navbar-nav">
           <li class="nav-item"><a href="#">WOMEN</a></li>
           <li class="nav-item"><a href="#">MEN</a></li>
+          <li class="nav-item"><a href="#">KIDS</a></li>
           <li class="nav-item">
             <form class="navbar-search">
               <input type="text" placeholder="Search for items, brands and inspiration">
