@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
   template: `
     <p>
       hero works!
+      Here we go!
     </p>
   `,
   styleUrl: './hero.component.css'
