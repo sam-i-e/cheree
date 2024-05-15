@@ -5,7 +5,8 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-    <p>
+  <div class=hero>  
+  <p>
       hero works!
       Here we go!
     </p>
@@ -13,6 +14,7 @@ import { Component } from '@angular/core';
       hero works!
       Here we go!
     </p>
+    </div>
   `,
   styleUrl: './hero.component.css'
 })
