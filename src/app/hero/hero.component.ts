@@ -9,6 +9,10 @@ import { Component } from '@angular/core';
       hero works!
       Here we go!
     </p>
+    <p>
+      hero works!
+      Here we go!
+    </p>
   `,
   styleUrl: './hero.component.css'
 })
