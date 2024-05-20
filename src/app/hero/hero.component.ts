@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
   <div class=hero>  
   <p>
       hero works!
-          // Here we go!
+          Here we go!
     </p>
     <p>
       hero works!
