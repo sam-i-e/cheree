@@ -11,6 +11,7 @@ import { Component } from '@angular/core';
       hero works!
       Here we go!
       Here we go!
+      Here we go!
     </p>
     <p>
       hero works!
