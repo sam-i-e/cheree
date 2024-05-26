@@ -12,7 +12,7 @@ import { Component } from '@angular/core';
       Here we go!
       Here we go!
       Here we go!
-      Here we go!
+      // Here we go!
       // Here we go!
       // Here we go!
     </p>
