@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
   <p>
       hero works!
       hero works!
-      Here we go!
+      // Here we go!
       // Here we go!
       // Here we go!
       // Here we go!
