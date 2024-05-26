@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
       hero works!
       hero works!
       Here we go!
-      Here we go!
+      // Here we go!
       // Here we go!
       // Here we go!
       // Here we go!
