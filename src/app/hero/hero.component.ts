@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   template: `
   <div class=hero> 
     <div class="head1">
-    <h1>My Hero</h1>
+    <h1>Browse our latest products</h1>
     </div>
   <p>
       Shop with us
