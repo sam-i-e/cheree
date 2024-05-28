@@ -5,16 +5,10 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-  <div class=hero>  
+  <div class=hero> 
+    <h1>My Hero</h1>
   <p>
-      hero works!
-      // hero works!
-      // Here we go!
-      // Here we go!
-      // Here we go!
-      // Here we go!
-      // Here we go!
-      // Here we go!
+      Shop with us
     </p>
     <p>
       hero works!

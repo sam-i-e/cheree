@@ -1,4 +1,5 @@
 .hero {
-    background-color: rgb(154, 228, 228);
-    height: 450px;
+    /* background-color: rgb(154, 228, 228); */
+    background-image: url(/assets/homeImage.jpg);
+    height: 90vh;
 }
