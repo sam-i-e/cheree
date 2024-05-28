@@ -9,13 +9,11 @@ import { Component } from '@angular/core';
     <div class="head1">
     <h1>Browse our latest products</h1>
     </div>
+    <div class="head2">
   <p>
       Shop with us
     </p>
-    <p>
-      hero works!
-      Here we go!
-    </p>
+</div>
     </div>
   `,
   styleUrl: './hero.component.css'
