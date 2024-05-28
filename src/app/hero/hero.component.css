@@ -29,11 +29,11 @@ button {
     background-color: inherit; /* Green */
     border: 1px solid rgb(175, 172, 166);;
     /* border-color: white ; */
-    color: rgb(5, 5, 5);
+    color: rgb(219, 214, 214);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin-left: 47em;
+    margin-left: 50em;
     
 }
