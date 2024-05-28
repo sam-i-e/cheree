@@ -7,11 +7,11 @@ import { Component } from '@angular/core';
   template: `
   <div class=hero> 
     <div class="head1">
-    <h1>Browse our latest products</h1>
+    <h1>Fashion on a Budget: Look Good, Feel Great</h1>
     </div>
     <div class="head2">
   <p>
-      Shop with us
+      Browse our latest products
     </p>
 </div>
     </div>
