@@ -5,9 +5,13 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
+    <div class="products">
     <p>
       products works!
+
+      hurray!
     </p>
+    </div>
   `,
   styleUrl: './products.component.css'
 })
