@@ -16,6 +16,9 @@ import { Component } from '@angular/core';
 </div>
   <button>Start Exploring</button>
     </div>
+    <div class="prod">
+      <h3>Products</h3>
+    </div>
   `,
   styleUrl: './hero.component.css'
 })
