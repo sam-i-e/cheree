@@ -64,7 +64,14 @@ import { Component } from '@angular/core';
             <div class="image">
               <img src="../assets/img1.jpg" alt="Image">
             </div>
-            
+            <div class="cart-line"></div>
+            <div class="cart-item">
+              <ul>
+                <li><a href=""><i class="fa fa-shopping-basket"></i></a></li>
+                <li><a href=""><i class="fa fa-heart"></i></a></li>
+                <li><a href=""><i class="fa fa-search"></i></a></li>
+              </ul>
+            </div>
           </div>
         </div>
        </div>
