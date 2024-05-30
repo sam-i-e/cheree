@@ -25,21 +25,31 @@ import { Component } from '@angular/core';
       /* Additional styling for h1 */
     }
 
+    h2 {
+      animation: slideInFromLeft 1s ease-out;
+      font-size: 3em;
+      color: #333;
+      /* Additional styling for h1 */
+    }
+
     p {
       animation: slideInFromLeft 1s ease-out;
 
     }
   </style>
-      <h1>Looku ni moto 🔥</h1>
+      <!-- <h1>Looku ni moto 🔥</h1>
     <p>
       products works!
 
       hurray!
-    </p>
+    </p> -->
     </div>
     <section class="prod">
       <div class="containers">
-        
+       <div class="title">
+        <h2>Products</h2>
+        <p><span>Best</span>Seller</p>
+       </div>
       </div>
     </section>
   `,
