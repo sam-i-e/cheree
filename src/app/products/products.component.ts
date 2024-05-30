@@ -51,6 +51,17 @@ import { Component } from '@angular/core';
         <p>Looku Ni Moto 🔥</p>
         <h2><span>Best</span>Seller</h2>
        </div>
+       <div class="row">
+        <div class="col-md-3">
+          <div class="card">
+            <div class="discount">8%</div>
+            <div class="label label-green">Pre-Order</div>
+            <div class="product-container">
+              <div class="p"></div>
+            </div>
+          </div>
+        </div>
+       </div>
       </div>
     </section>
   `,
