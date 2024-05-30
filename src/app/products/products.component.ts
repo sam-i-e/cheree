@@ -27,7 +27,7 @@ import { Component } from '@angular/core';
 
     p {
       animation: slideInFromLeft 1s ease-out;
-      
+
     }
   </style>
       <h1>Looku ni moto 🔥</h1>
@@ -37,6 +37,11 @@ import { Component } from '@angular/core';
       hurray!
     </p>
     </div>
+    <section class="prod">
+      <div class="containers">
+        
+      </div>
+    </section>
   `,
   styleUrl: './products.component.css'
 })
