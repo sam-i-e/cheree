@@ -27,4 +27,8 @@
 .title::before {
     content: '';
     position: absolute;
+    width: 200px;
+    height: 3px;
+    background: #dbdbdb;
+    opacity: .6;
 }
