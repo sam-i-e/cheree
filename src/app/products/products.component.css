@@ -19,3 +19,12 @@
     margin: 0 auto;
     background-color: azure;
 }
+.title {
+    margin-bottom: 50px;
+    text-align: center;
+    position: relative;
+}
+.title::before {
+    content: '';
+    position: absolute;
+}
