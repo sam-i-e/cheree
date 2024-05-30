@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
     <nav class="navbar">
       <div class="navbar-brand">
         <a href="#">
-          <img src="assets/logo.png" alt="Company Logo">
+          <img src="assets/Logo2.png" alt="Company Logo">
         </a>
       </div>
       <div class="navbar-menu">

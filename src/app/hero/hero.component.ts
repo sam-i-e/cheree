@@ -5,9 +5,20 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-    <p>
-      hero works!
+  <div class=hero> 
+    <div class="head1">
+    <h1>Vintage Finds and Modern Must-Haves</h1>
+    </div>
+    <div class="head2">
+  <p>
+      Browse our latest products
     </p>
+</div>
+  <button>Start Exploring</button>
+    </div>
+    <!-- <div class="prod">
+      <h3>Products</h3>
+    </div> -->
   `,
   styleUrl: './hero.component.css'
 })
