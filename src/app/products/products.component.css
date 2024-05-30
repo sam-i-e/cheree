@@ -32,3 +32,15 @@
     background: #dbdbdb;
     opacity: .6;
 }
+.title::after {
+    content: 'Hey';
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background: #dbdbdb;
+    line-height: 20px;
+    opacity: .6;
+    left: 10%;
+    bottom: 10%;
+    transform: translateX(-50);
+}
