@@ -61,6 +61,10 @@ import { Component } from '@angular/core';
               <div class="p"><img src="../assets/img2.jpg" alt="Product"></div>
               <div class="p"><img src="../assets/img3.jpg" alt="Product"></div>
             </div>
+            <div class="image">
+              <img src="../assets/img1.jpg" alt="Image">
+            </div>
+            
           </div>
         </div>
        </div>
