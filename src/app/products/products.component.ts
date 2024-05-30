@@ -48,8 +48,8 @@ import { Component } from '@angular/core';
     <section class="prod">
       <div class="containers">
        <div class="title">
-        <h2>Products</h2>
-        <p><span>Best</span>Seller</p>
+        <p>Looku Ni Moto 🔥</p>
+        <h2><span>Best</span>Seller</h2>
        </div>
       </div>
     </section>
