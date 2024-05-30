@@ -62,3 +62,6 @@
 .title span {
     color: #4c81bd;
 }
+.p img {
+    max-width: 100px;
+}

@@ -57,7 +57,9 @@ import { Component } from '@angular/core';
             <div class="discount">8%</div>
             <div class="label label-green">Pre-Order</div>
             <div class="product-container">
-              <div class="p"></div>
+              <div class="p"><img src="../assets/img1.jpg" alt="Product"></div>
+              <div class="p"><img src="../assets/img2.jpg" alt="Product"></div>
+              <div class="p"><img src="../assets/img3.jpg" alt="Product"></div>
             </div>
           </div>
         </div>
