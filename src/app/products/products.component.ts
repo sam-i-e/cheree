@@ -54,6 +54,7 @@ import { Component } from '@angular/core';
        <div class="row">
         <div class="col-md-3">
           <div class="card">
+            <div class="card-main"></div> 
             <div class="discount">8%</div>
             <div class="label label-green">Pre-Order</div>
             <div class="product-container">
