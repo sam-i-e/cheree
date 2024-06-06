@@ -46,7 +46,7 @@ import { Component } from '@angular/core';
         <li><a href="#">Students</a></li>
         <li><a href="#">Corporate</a></li>
         <li><a href="#">Birthday</a></li>
-        <li><a href="#">Annivasaries</a></li>
+        <li><a href="#">Anniversary</a></li>
       </ul>
     </div>
   </div>
