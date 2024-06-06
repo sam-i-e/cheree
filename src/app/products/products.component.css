@@ -15,9 +15,9 @@
     /* width: 350px; */
 }
 .containers {
-    width: 100px;
+    width: 200px;
     margin: 0 auto;
-    background-color: azure;
+    background-color: rgb(176, 196, 196);
 }
 .title {
     margin-bottom: 10px;
