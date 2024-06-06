@@ -63,7 +63,7 @@ import { Component } from '@angular/core';
               <div class="p2"><img src="../assets/img3.jpg" alt="Product"></div>
             </div>
             <div class="image">
-              <img src="../assets/img1.jpg" alt="Image">
+              <img src="../assets/img4.jpg" alt="Image">
             </div>
             <div class="cart-line"></div>
             <div class="cart-item">
