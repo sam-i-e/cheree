@@ -38,7 +38,6 @@ import { Component } from '@angular/core';
         <li><a href="#">News</a></li>
         <li><a href="#">Careers</a></li>
         <li><a href="#">Culture</a></li>
-        <li><a href="#">Sustainability</a></li>
       </ul>
     </div>
     <div class="footer-section">
@@ -57,7 +56,7 @@ import { Component } from '@angular/core';
       <li><a href="#">Guides</a></li>
       <li><a href="#">Terms of Sale</a></li>
       <li><a href="#">Terms of Use</a></li>
-      <li><a href="#">Cheree Privacy Policy</a></li>
+      <li><a href="#">Cherees' Privacy Policy</a></li>
       <li><a href="#">Your Privacy Choices</a></li>
       <li><a href="#">Ke Supply Chains Act</a></li>
     </ul>
