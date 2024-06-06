@@ -54,7 +54,7 @@ import { Component } from '@angular/core';
        <div class="row">
         <div class="col-md-3">
           <div class="card">
-            <div class="card-main"></div> 
+            <div class="card-main">
             <div class="discount">8%</div>
             <div class="label label-green">Pre-Order</div>
             <div class="product-container">
@@ -67,16 +67,27 @@ import { Component } from '@angular/core';
             </div>
             <div class="cart-line"></div>
             <div class="cart-item">
-              <ul>
+            <ul>
                 <li><a href=""><i class="fa fa-shopping-basket"></i></a></li>
                 <li><a href=""><i class="fa fa-heart"></i></a></li>
                 <li><a href=""><i class="fa fa-search"></i></a></li>
               </ul>
             </div>
           </div>
+          <div class="content">
+            <a href="">Blazers</a>
+            <div class="price">$200</div>
+            <div class="rating">
+              <i class="fa fa-star"></i>
+            </div>
+          </div>
+            </div> 
+            
+              
         </div>
        </div>
-      </div>
+       </div>
+      <!-- </div> -->
     </section>
   `,
   styleUrl: './products.component.css'
