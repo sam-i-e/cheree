@@ -59,7 +59,7 @@ import { Component } from '@angular/core';
             <div class="label label-green">Pre-Order</div>
             <div class="product-container">
               <div class="p"><img src="../assets/img1.jpg" alt="Product"></div>
-              <div class="p"><img src="../assets/img2.jpg" alt="Product"></div>
+              <div class="p1"><img src="../assets/img2.jpg" alt="Product"></div>
               <div class="p"><img src="../assets/img3.jpg" alt="Product"></div>
             </div>
             <div class="image">
