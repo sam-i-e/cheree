@@ -81,7 +81,7 @@
 }
 .product-container {
     display: flex;
-    margin: 2 0
+    /* margin: 2 0 */
     /* flex-wrap: wrap; */
     /* justify-content: center; */
 }
