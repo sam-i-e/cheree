@@ -16,7 +16,7 @@
 }
 .containers {
     width: 200px;
-    margin: 0 auto;
+    margin: 10 auto;
     background-color: rgb(176, 196, 196);
 }
 .title {
