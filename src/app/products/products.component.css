@@ -66,6 +66,9 @@
 .p img {
     max-width: 114px;
 }
+.p1 img {
+    max-width: 200px;
+}
 .image img {
     max-width: 300px;
     /* margin: 0 auto; */
