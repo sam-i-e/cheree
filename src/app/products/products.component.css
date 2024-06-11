@@ -66,6 +66,7 @@
 }
 .p img {
     max-width: 300px;
+    border-radius: 20px;
 }
 .p1 img {
     max-width: 300px;
