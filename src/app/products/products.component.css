@@ -74,6 +74,7 @@
 }
 .p2 img {
     max-width: 300px;
+    border-radius: 20px;
 }
 .image img {
     max-width: 300px;
