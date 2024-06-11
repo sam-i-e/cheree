@@ -76,7 +76,7 @@ import { Component } from '@angular/core';
           </div>
           <div class="content">
             <a href="">Trousers</a>
-            <div class="price">$200</div>
+            <div class="price">$2000</div>
             <div class="rating">
               <i class="fa fa-star"></i>
             </div>
