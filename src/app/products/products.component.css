@@ -94,7 +94,7 @@
     position: relative;
 }
 .discount {
-    position: absolute;
+    position: relative;
     background: #4c81bd;
     font-weight: 700;
     color: azure;
@@ -108,4 +108,9 @@
     font-style: italic;
     left: -9px;
     top: 30px;
+}
+.discount::after {
+    border-top: 6px solid #5387f8;
+    content: '';
+    
 }
