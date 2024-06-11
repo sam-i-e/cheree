@@ -5,44 +5,71 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-    <nav class="navbar">
-      <div class="navbar-brand">
-        <a href="#">
-          <img src="assets/Logo2.png" alt="Company Logo">
-        </a>
+  <!-- src/app/navbar/navbar.component.html -->
+<nav class="navbar">
+  <div class="navbar-logo">
+    <img src="assets/cheree-logo-Black.png" alt="Cheree Logo">
+  </div>
+  <ul class="navbar-menu">
+    <li class="navbar-item">Our Collections</li>
+    <li class="navbar-item">New & Featured
+      <div class="dropdown-content">
+        <div class="dropdown-section">
+          <h4>New & Featured</h4>
+          <ul>
+            <li><a href="#">New Arrivals</a></li>
+            <li><a href="#">Best Sellers</a></li>
+            <li><a href="#">New & Upcoming Drops</a></li>
+          </ul>
+        </div>
+        <div class="dropdown-section">
+          <h4>Trending</h4>
+          <ul>
+            <li><a href="#">ACG</a></li>
+            <li><a href="#">Lifestyle Running</a></li>
+            <li><a href="#">The Color Shop</a></li>
+            <li><a href="#">Shop Sport</a></li>
+            <li><a href="#">Father's Day Shop</a></li>
+            <li><a href="#">Jordan Heat Check</a></li>
+            <li><a href="#">Aura Bag</a></li>
+          </ul>
+        </div>
+        <div class="dropdown-section">
+          <h4>Shop Classics</h4>
+          <ul>
+            <li><a href="#">Dunk</a></li>
+            <li><a href="#">Air Jordan 1</a></li>
+            <li><a href="#">Air Force</a></li>
+            <li><a href="#">Air Max</a></li>
+            <li><a href="#">Blazer</a></li>
+            <li><a href="#">Vomero</a></li>
+          </ul>
+        </div>
+        <div class="dropdown-section">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="#">SNKRS Launch Calendar</a></li>
+            <li><a href="#">Running Shoe Finder</a></li>
+            <li><a href="#">Bra Finder</a></li>
+            <li><a href="#">Product Care</a></li>
+            <li><a href="#">Member Rewards</a></li>
+            <li><a href="#">Buying Guides</a></li>
+          </ul>
+        </div>
       </div>
-      <div class="navbar-menu">
-        <ul class="navbar-nav">
-          <li class="nav-item"><a href="#">WOMEN</a></li>
-          <li class="nav-item"><a href="#">MEN</a></li>
-          <li class="nav-item"><a href="#">KIDS</a></li>
-          <li class="nav-item">
-            <form class="navbar-search">
-              <input type="text" placeholder="Looking for something?">
-              <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-          </li>
-          <li class="nav-item"><a href="#"><i class="fa fa-user"></i></a></li>
-          <li class="nav-item"><a href="#"><i class="fa fa-heart"></i></a></li>
-          <li class="nav-item"><a href="#"><i class="fa fa-shopping-bag"></i></a></li>
-        </ul>
-      </div>
-      <div class="navbar-dropdown">
-        <ul class="navbar-nav">
-          <li class="nav-item dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">New in <i class="fa fa-caret-down"></i></a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Clothing</a></li>
-              <li><a href="#">Shoes</a></li>
-              <li><a href="#">Accessories</a></li>
-              <li><a href="#">Bags</a></li> 
-              <!-- Add more dropdown items as needed -->
-            </ul>
-          </li>
-          <!-- Add more dropdown menus as needed -->
-        </ul>
-      </div>
-    </nav>
+    </li>
+    <li class="navbar-item">Men</li>
+    <li class="navbar-item">Women</li>
+    <li class="navbar-item">Kids</li>
+    <li class="navbar-item">Jordan</li>
+  </ul>
+  <div class="navbar-icons">
+    <span class="icon search-icon">🔍</span>
+    <span class="icon heart-icon">❤️</span>
+    <span class="icon cart-icon">🛒</span>
+  </div>
+</nav>
+
   `,
   styleUrls: ['./navbar.component.css']
 })
