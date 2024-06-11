@@ -93,3 +93,8 @@
 .card-main{
     position: relative;
 }
+.discount {
+    position: absolute;
+    background: #4c81bd;
+    
+}
