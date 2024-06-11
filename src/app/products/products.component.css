@@ -97,4 +97,12 @@
     position: absolute;
     background: #4c81bd;
     font-weight: 700;
+    color: azure;
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    height: 70px;
+    width: 30px;
+    border-radius: 0 15px 15px 0;
+    
 }
