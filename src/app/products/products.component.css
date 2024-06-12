@@ -147,7 +147,7 @@
 .cart-item {
     text-align: center;
     line-height: 45px;
-    background: #111;
+    background: #616060;
     transition: all 1s ease-in-out;
     /* opacity: 0; */
     position: relative;
@@ -167,5 +167,7 @@
     content: "";
     width: 1px;
     height: 18px;
-    background: rgba(0,0,0,0.2);
+    background: rgba(255,255,255,.15);
+    position: absolute;
+    left: -2px;
 }
