@@ -153,3 +153,10 @@
     position: relative;
     top: -30px;
 }
+.cart-item ul {
+    padding: 0;
+    margin: 0;
+}
+.cart-item ul li {
+    display: inline-block;
+}
