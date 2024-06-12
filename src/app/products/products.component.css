@@ -172,3 +172,11 @@
     left: -2px;
     top: 10px;
 }
+.cart-item ul li:first-child:after {
+    display: none;
+}
+.cart-item ul li a{
+    padding: 0 18px;
+    color: #ccc;
+}
+
