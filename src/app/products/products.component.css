@@ -124,13 +124,17 @@
 }
 .label {
     position: absolute;
-    /* bottom: 84px; */
+    bottom: 84px;
     left: 10px;
-    font-style: 10px;
+    font-size: 10px;
     font-weight: 400;
     text-transform: uppercase;
     z-index: 2;
     line-height: 100%;
     color: #dbdbdb;
     border-radius: 3px;
+    padding: 5px 8px;
+}
+.label-green {
+    background-color: #5387f8;
 }
