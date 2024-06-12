@@ -149,4 +149,7 @@
     line-height: 45px;
     background: #111;
     transition: all 1s ease-in-out;
+    /* opacity: 0; */
+    position: relative;
+    top: -30px;
 }
