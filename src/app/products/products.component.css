@@ -131,4 +131,6 @@
     text-transform: uppercase;
     z-index: 2;
     line-height: 100%;
+    color: #dbdbdb;
+    border-radius: 3px;
 }
