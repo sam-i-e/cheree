@@ -159,4 +159,13 @@
 }
 .cart-item ul li {
     display: inline-block;
+    list-style-type: georgian;
+    color: aqua;
+    position: relative;
+}
+.cart-item ul li::after {
+    content: "";
+    width: 1px;
+    height: 18px;
+    background: rgba(0,0,0,0.2);
 }
