@@ -128,4 +128,7 @@
     left: 10px;
     font-style: 10px;
     font-weight: 400;
+    text-transform: uppercase;
+    z-index: 2;
+    line-height: 100%;
 }
