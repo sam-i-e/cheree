@@ -80,11 +80,11 @@
     max-width: 300px;
     /* margin: 0 auto; */
     display: block;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 .product-container {
-    display: flex;
+    /* display: flex; */
     margin: 2px;
     /* flex-wrap: wrap; */
     /* justify-content: center; */
