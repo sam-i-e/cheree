@@ -124,4 +124,8 @@
 }
 .label {
     position: absolute;
+    bottom: 84px;
+    left: 10px;
+    font-style: 10px;
+    font-weight: 400;
 }
