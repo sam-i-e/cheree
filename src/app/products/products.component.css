@@ -179,4 +179,8 @@
     padding: 0 18px;
     color: #ccc;
 }
+.cart-item ul li a:hover {
+    color: cornflowerblue;
+}
+
 
