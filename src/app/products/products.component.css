@@ -147,4 +147,6 @@
 .cart-item {
     text-align: center;
     line-height: 45px;
+    background: #111;
+    transition: all 1s ease-in-out;
 }
