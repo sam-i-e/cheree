@@ -88,6 +88,7 @@
 .product-container {
     /* display: flex; */
     margin: 2px;
+    position: absolute;
     /* flex-wrap: wrap; */
     /* justify-content: center; */
 }
@@ -182,5 +183,6 @@
 .cart-item ul li a:hover {
     color: cornflowerblue;
 }
+
 
 
