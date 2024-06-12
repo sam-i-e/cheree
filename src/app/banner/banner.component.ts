@@ -1,21 +1,20 @@
 import { Component } from '@angular/core';
+// banner.component.tsimport { Component } from '@angular/core';
 
 @Component({
   selector: 'app-banner',
   standalone: true,
   imports: [],
   template: `
-   <div class="banner">
-  <div class="banner-content">
-    <h1>Welcome to Our E-commerce Store!</h1>
-    <p>Discover amazing products and great deals</p>
-    <button class="shop-now-btn">Shop Now</button>
-  </div>
-</div>
-
+    <div class="banner-container">
+      <h1>{{ title }}</h1>
+      <p>{{ tagline }}</p>
+    </div>
   `,
-  styleUrl: './banner.component.css'
+  styleUrls: ['./banner.component.css']
 })
 export class BannerComponent {
-
+  // Properties for the banner such as title, tagline, etc.
+  title: string = 'Thrift Fashion Finds';
+  tagline: string = 'Discover unique clothing at unbeatable prices!';
 }
