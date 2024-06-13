@@ -164,6 +164,8 @@
 }
 .content a {
     color: #5a8ebe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
 }
 .label-green {
     background-color: #3b71df;
