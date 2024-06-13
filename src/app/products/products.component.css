@@ -162,6 +162,9 @@
     border-radius: 3px;
     padding: 5px 8px;
 }
+.content a {
+    color: #78aada;
+}
 .label-green {
     background-color: #3b71df;
 }
