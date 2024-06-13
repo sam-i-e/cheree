@@ -65,7 +65,7 @@ import { Component } from '@angular/core';
             <div class="image">
               <img src="../assets/img4.jpg" alt="Image">
             </div>
-            <div class="cart-line"></div>
+            <!-- <div class="cart-line">
             <div class="cart-item">
             <ul>
                 <li><a href=""><i class="fa fa-shopping-basket"></i></a></li>
@@ -73,6 +73,7 @@ import { Component } from '@angular/core';
                 <li><a href=""><i class="fa fa-search"></i></a></li>
               </ul>
             </div>
+            </div> -->
           </div>
           <div class="content">
             <a href="">Trousers</a>
