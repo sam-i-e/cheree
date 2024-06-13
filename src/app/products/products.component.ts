@@ -47,10 +47,10 @@ import { Component } from '@angular/core';
     </div>
     <section class="prod">
       <div class="containers">
-       <div class="title">
+       <!-- <div class="title">
         <p>Looku Ni Moto 🔥</p>
         <h2><span>Best</span>Seller</h2>
-       </div>
+       </div> -->
        <div class="row">
         <div class="col-md-3">
           <div class="card">
