@@ -125,7 +125,7 @@
 }
 .discount {
     position: relative;
-    background: #4c81bd;
+    background: #47abdd;
     font-weight: 700;
     color: azure;
     text-align: center;
@@ -163,7 +163,7 @@
     padding: 5px 8px;
 }
 .label-green {
-    background-color: #5387f8;
+    background-color: #3b71df;
 }
 .cart-line {
     height: 2px;
