@@ -167,6 +167,9 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 18px;
 }
+.price {
+    font-size: 14px;
+}
 .label-green {
     background-color: #3b71df;
 }
