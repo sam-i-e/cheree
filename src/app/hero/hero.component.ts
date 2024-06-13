@@ -7,6 +7,10 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
   <div class=hero> 
+    <video autoplay loop muted plays-inline class="background-clip">
+          <source src="/assets/homeVideo.mp4" type="video.mp4">
+    </video>
+
     <div class="head1">
     <h1>Vintage Finds and Modern Must-Haves</h1>
     </div>
