@@ -47,25 +47,25 @@ import { Component } from '@angular/core';
     </div>
     <section class="prod">
       <div class="containers">
-       <div class="title">
+       <!-- <div class="title">
         <p>Looku Ni Moto 🔥</p>
         <h2><span>Best</span>Seller</h2>
-       </div>
+       </div> -->
        <div class="row">
         <div class="col-md-3">
           <div class="card">
             <div class="card-main">
             <div class="discount">8%</div>
             <div class="label label-green">Pre-Order</div>
-            <div class="product-container">
+            <!-- <div class="product-container">
               <div class="p"><img src="../assets/img1.jpg" alt="Product"></div>
               <div class="p1"><img src="../assets/img2.jpg" alt="Product"></div>
               <div class="p2"><img src="../assets/img3.jpg" alt="Product"></div>
-            </div>
+            </div> -->
             <div class="image">
-              <img src="../assets/img4.jpg" alt="Image">
+              <img src="../assets/img1.jpg" alt="Image">
             </div>
-            <div class="cart-line"></div>
+            <!-- <div class="cart-line">
             <div class="cart-item">
             <ul>
                 <li><a href=""><i class="fa fa-shopping-basket"></i></a></li>
@@ -73,10 +73,11 @@ import { Component } from '@angular/core';
                 <li><a href=""><i class="fa fa-search"></i></a></li>
               </ul>
             </div>
+            </div> -->
           </div>
           <div class="content">
-            <a href="">Trousers</a>
-            <div class="price">$2000</div>
+            <strong>Trousers</strong>
+            <div class="price">KES 1200</div>
             <div class="rating">
               <i class="fa fa-star"></i>
             </div>
