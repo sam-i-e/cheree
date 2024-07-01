@@ -51,7 +51,7 @@ import { Component } from '@angular/core';
             Curated Collections, Timeless Styles
           </p>
           <button class="button">
-            Find Out More
+            Shop Now
             <span class="arrow">&#8594;</span>
           </button>
         </div>
