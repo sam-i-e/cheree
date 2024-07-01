@@ -9,8 +9,8 @@ import { Component } from '@angular/core';
     <div class="container">
   <div class="inner-container">
      <h1>
-    Swift Cash makes it Easy to
-    <span class="highlight">Deposit</span> to Deriv.
+    Looku ni
+    <span class="highlight">Moto</span>
   </h1>
     <div class="grid">
       
