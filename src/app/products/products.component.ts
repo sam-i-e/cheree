@@ -12,12 +12,13 @@ import { Component } from '@angular/core';
     Looku ni
     <span class="highlight">Moto</span>🔥
   </h1>
+  <h4>Hottest and latest in the 254 </h4>
     <div class="grid">
       
       <div class="card">
         <div class="img-container">
           <img
-            src="assets/img5.jpg"
+            src="assets/img6.jpg"
             alt="Family having dinner"
             class="img"
           />
@@ -48,6 +49,26 @@ import { Component } from '@angular/core';
           <h3>Fast Deposits & Withdrawals</h3>
           <p>
             Our intelligent.
+          </p>
+          <button class="button">
+            Find Out More
+            <span class="arrow">&#8594;</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="img-container">
+          <img
+            src="assets/img3.jpg"
+            alt="Senior couple"
+            class="img"
+          />
+        </div>
+        <div class="content">
+          <h3>Fast Deposits & Withdrawals</h3>
+          <p>
+            Our intelligent 
           </p>
           <button class="button">
             Find Out More
