@@ -47,7 +47,7 @@ import { Component } from '@angular/core';
         <div class="content">
           <h3>Fast Deposits & Withdrawals</h3>
           <p>
-            Our intelligent budgeting tools analyze your income and expenses, providing personalized recommendations to help you allocate your funds wisely. Track your spending, set realistic goals, and watch your savings grow.
+            Our intelligent.
           </p>
           <button class="button">
             Find Out More
