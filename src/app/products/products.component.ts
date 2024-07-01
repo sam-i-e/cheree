@@ -24,9 +24,9 @@ import { Component } from '@angular/core';
           />
         </div>
         <div class="content">
-          <h3>Automated Deposits to Deriv</h3>
+          <h3>Kicks catalogue</h3>
           <p>
-            Our automated fees.
+            Shop Sustainably, Dress Stylishly
           </p>
           <button class="button">
             Download the App
@@ -46,9 +46,9 @@ import { Component } from '@angular/core';
           />
         </div>
         <div class="content">
-          <h3>Fast Deposits & Withdrawals</h3>
+          <h3>Upper-body wear</h3>
           <p>
-            Our intelligent.
+            Curated Collections, Timeless Styles
           </p>
           <button class="button">
             Find Out More
@@ -66,9 +66,9 @@ import { Component } from '@angular/core';
           />
         </div>
         <div class="content">
-          <h3>Fast Deposits & Withdrawals</h3>
+          <h3>Executive Galore</h3>
           <p>
-            Our intelligent 
+            Sustainable Style Starts Here 
           </p>
           <button class="button">
             Find Out More
@@ -86,9 +86,9 @@ import { Component } from '@angular/core';
           />
         </div>
         <div class="content">
-          <h3>Fast Deposits & Withdrawals</h3>
+          <h3>Trendy Thrift</h3>
           <p>
-            Our intelligent 
+            There's something for everybody
           </p>
           <button class="button">
             Find Out More
