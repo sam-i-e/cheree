@@ -1,6 +1,6 @@
 .container {
     /* background-color: #f7fafc; */
-    background: linear-gradient(to bottom, #fff9e3, #eaebbe);
+    background: linear-gradient(to bottom, #f3f3f3, #ececea);
     padding: 4rem 0;
     /* margin-top: 15em; */
   }
@@ -16,7 +16,7 @@
   }
   
   .highlight {
-    background: linear-gradient(90deg, #FFDD00, #FFAA00);
+    background: linear-gradient(90deg, #008cff, #1b1c66);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }

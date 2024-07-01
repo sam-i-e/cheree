@@ -10,14 +10,14 @@ import { Component } from '@angular/core';
   <div class="inner-container">
      <h1>
     Looku ni
-    <span class="highlight">Moto</span>
+    <span class="highlight">Moto</span>🔥
   </h1>
     <div class="grid">
       
       <div class="card">
         <div class="img-container">
           <img
-            src="assets/heroapp.png"
+            src="assets/img5.jpg"
             alt="Family having dinner"
             class="img"
           />
@@ -29,6 +29,28 @@ import { Component } from '@angular/core';
           </p>
           <button class="button">
             Download the App
+            <span class="arrow">&#8594;</span>
+          </button>
+        </div>
+      </div>
+
+      
+
+      <div class="card">
+        <div class="img-container">
+          <img
+            src="assets/img4.jpg"
+            alt="Senior couple"
+            class="img"
+          />
+        </div>
+        <div class="content">
+          <h3>Fast Deposits & Withdrawals</h3>
+          <p>
+            Our intelligent budgeting tools analyze your income and expenses, providing personalized recommendations to help you allocate your funds wisely. Track your spending, set realistic goals, and watch your savings grow.
+          </p>
+          <button class="button">
+            Find Out More
             <span class="arrow">&#8594;</span>
           </button>
         </div>
