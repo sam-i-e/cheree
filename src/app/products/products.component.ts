@@ -29,7 +29,7 @@ import { Component } from '@angular/core';
             Shop Sustainably, Dress Stylishly
           </p>
           <button class="button">
-            Download the App
+            Shop Now
             <span class="arrow">&#8594;</span>
           </button>
         </div>
