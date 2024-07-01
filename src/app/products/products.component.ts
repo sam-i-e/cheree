@@ -71,7 +71,7 @@ import { Component } from '@angular/core';
             Sustainable Style Starts Here 
           </p>
           <button class="button">
-            Find Out More
+            Shop Now
             <span class="arrow">&#8594;</span>
           </button>
         </div>
