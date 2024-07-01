@@ -6,90 +6,77 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-    <div class="products">
-    <style>
-    @keyframes slideInFromLeft {
-      0% {
-        transform: translateX(-100%);
-        opacity: 0;
-      }
-      100% {
-        transform: translateX(0);
-        opacity: 1;
-      }
-    }
-
-    h1 {
-      animation: slideInFromLeft 1s ease-out;
-      font-size: 3em;
-      color: #333;
-      /* Additional styling for h1 */
-    }
-
-    h2 {
-      animation: slideInFromLeft 1s ease-out;
-      font-size: 3em;
-      color: #333;
-      /* Additional styling for h1 */
-    }
-
-    p {
-      animation: slideInFromLeft 1s ease-out;
-
-    }
-  </style>
-      <!-- <h1>Looku ni moto 🔥</h1>
-    <p>
-      products works!
-
-      hurray!
-    </p> -->
-    </div>
-    <section class="prod">
-      <div class="containers">
-       <!-- <div class="title">
-        <p>Looku Ni Moto 🔥</p>
-        <h2><span>Best</span>Seller</h2>
-       </div> -->
-       <div class="row">
-        <div class="col-md-3">
-          <div class="card">
-            <div class="card-main">
-            <div class="discount">8%</div>
-            <div class="label label-green">Pre-Order</div>
-            <!-- <div class="product-container">
-              <div class="p"><img src="../assets/img1.jpg" alt="Product"></div>
-              <div class="p1"><img src="../assets/img2.jpg" alt="Product"></div>
-              <div class="p2"><img src="../assets/img3.jpg" alt="Product"></div>
-            </div> -->
-            <div class="image">
-              <img src="../assets/img1.jpg" alt="Image">
-            </div>
-            <!-- <div class="cart-line">
-            <div class="cart-item">
-            <ul>
-                <li><a href=""><i class="fa fa-shopping-basket"></i></a></li>
-                <li><a href=""><i class="fa fa-heart"></i></a></li>
-                <li><a href=""><i class="fa fa-search"></i></a></li>
-              </ul>
-            </div>
-            </div> -->
-          </div>
-          <div class="content">
-            <strong>Trousers</strong>
-            <div class="price">KES 1200</div>
-            <div class="rating">
-              <i class="fa fa-star"></i>
-            </div>
-          </div>
-            </div> 
-            
-              
+    <div class="container">
+  <div class="inner-container">
+     <h1>
+    Swift Cash makes it Easy to
+    <span class="highlight">Deposit</span> to Deriv.
+  </h1>
+    <div class="grid">
+      
+      <div class="card">
+        <div class="img-container">
+          <img
+            src="assets/heroapp.png"
+            alt="Family having dinner"
+            class="img"
+          />
         </div>
-       </div>
-       </div>
-      <!-- </div> -->
-    </section>
+        <div class="content">
+          <h3>Automated Deposits to Deriv</h3>
+          <p>
+            Our automated payment scheduling system takes the hassle out of managing due dates. Simply set up your recurring payments, and our system will handle the rest, ensuring timely payments and avoiding late fees.
+          </p>
+          <button class="button">
+            Download the App
+            <span class="arrow">&#8594;</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="img-container">
+          <img
+            src="assets/hero.jpg"
+            alt="Senior couple"
+            class="img"
+          />
+        </div>
+        <div class="content">
+          <h3>Fast Deposits & Withdrawals</h3>
+          <p>
+            Our intelligent budgeting tools analyze your income and expenses, providing personalized recommendations to help you allocate your funds wisely. Track your spending, set realistic goals, and watch your savings grow.
+          </p>
+          <button class="button">
+            Find Out More
+            <span class="arrow">&#8594;</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="img-container">
+          <img
+            src="assets/product.jpg"
+            alt="Family embrace"
+            class="img"
+          />
+        </div>
+        <div class="content">
+          <h3>Security is our Priority</h3>
+          <p>
+            Define your financial goals, whether it's saving for a down payment, paying off debt, or building an emergency fund. Our goal setting tools help you create a roadmap and track your progress, keeping you motivated and accountable every step of the way.
+          </p>
+          <button class="button">
+            Download the App
+            <span class="arrow">&#8594;</span>
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
   `,
   styleUrl: './products.component.css'
 })
