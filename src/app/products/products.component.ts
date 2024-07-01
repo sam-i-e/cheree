@@ -91,7 +91,7 @@ import { Component } from '@angular/core';
             There's something for everybody
           </p>
           <button class="button">
-            Find Out More
+            Shop Now
             <span class="arrow">&#8594;</span>
           </button>
         </div>
