@@ -14,6 +14,7 @@
   h1 {
     font-size: 2rem; /* Reduced from 3rem */
     color: #333; /* Darker text color */
+    font-weight: 300;
   }
   
   .highlight {
@@ -94,10 +95,10 @@
   }
   
   .button {
-    color: #54a8d8;
-    font-weight: bold;
+    color: #767879;
+    font-weight: 100;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     transition: color 0.3s;
     border-radius: 5em;
     align-items: right;
