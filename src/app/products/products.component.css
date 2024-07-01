@@ -2,6 +2,7 @@
     /* background-color: #f7fafc; */
     background: linear-gradient(to bottom, #f3f3f3, #ececea);
     padding: 4rem 0;
+    display: flex;
     /* margin-top: 15em; */
   }
   
@@ -47,11 +48,12 @@
   }
   
   .card {
-    background-color: white;
+    background-color: rgb(240, 235, 235);
     border-radius: 1rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: box-shadow 0.7s;
+    width: 300px;
   }
   
   .card:hover {

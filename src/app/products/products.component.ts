@@ -25,7 +25,7 @@ import { Component } from '@angular/core';
         <div class="content">
           <h3>Automated Deposits to Deriv</h3>
           <p>
-            Our automated payment scheduling system takes the hassle out of managing due dates. Simply set up your recurring payments, and our system will handle the rest, ensuring timely payments and avoiding late fees.
+            Our automated fees.
           </p>
           <button class="button">
             Download the App
@@ -59,7 +59,7 @@ import { Component } from '@angular/core';
       <div class="card">
         <div class="img-container">
           <img
-            src="assets/hero.jpg"
+            src="assets/img2.jpg"
             alt="Senior couple"
             class="img"
           />
@@ -79,7 +79,7 @@ import { Component } from '@angular/core';
       <div class="card">
         <div class="img-container">
           <img
-            src="assets/product.jpg"
+            src="assets/img3.jpg"
             alt="Family embrace"
             class="img"
           />
