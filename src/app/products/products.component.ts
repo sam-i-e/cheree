@@ -76,25 +76,7 @@ import { Component } from '@angular/core';
         </div>
       </div>
 
-      <div class="card">
-        <div class="img-container">
-          <img
-            src="assets/img3.jpg"
-            alt="Family embrace"
-            class="img"
-          />
-        </div>
-        <div class="content">
-          <h3>Security is our Priority</h3>
-          <p>
-            Define your financial goals, whether it's saving for a down payment, paying off debt, or building an emergency fund. Our goal setting tools help you create a roadmap and track your progress, keeping you motivated and accountable every step of the way.
-          </p>
-          <button class="button">
-            Download the App
-            <span class="arrow">&#8594;</span>
-          </button>
-        </div>
-      </div>
+      
 
     </div>
   </div>

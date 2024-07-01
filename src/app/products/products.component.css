@@ -54,6 +54,7 @@
     overflow: hidden;
     transition: box-shadow 0.7s;
     width: 300px;
+    display: inline-table;
   }
   
   .card:hover {
