@@ -113,8 +113,8 @@
   }
   
   .button:hover {
-    color: #070707;
-    background-color: aliceblue;
+    color: #4b4848;
+    background-color: rgb(7, 7, 7);
   }
   
   .arrow {
