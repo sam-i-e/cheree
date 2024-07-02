@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
     <div class="container">
   <div class="inner-container">
      <h1>
-    Looku ni
+    Looku 
     <span class="highlight">Looku</span>ni Moto🔥
   </h1>
   <h4>Hottest and latest in the 254 </h4>
