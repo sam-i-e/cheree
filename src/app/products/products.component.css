@@ -107,7 +107,7 @@
     border-radius: 5em;
     align-items: right;
     margin: auto;
-    background-color: black;
+    background-color: inherit;
     height: 35px;
     /* margin-right: 20em; */
   }
