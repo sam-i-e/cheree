@@ -4,6 +4,7 @@ import { HeroComponent } from './hero/hero.component';
 import { ProductsComponent } from './products/products.component';
 import { FooterComponent } from './footer/footer.component';
 import { BannerComponent } from './banner/banner.component';
+import { CatalogueComponent } from './catalogue/catalogue.component';
 
 @Component({
   standalone: true,
@@ -21,11 +22,14 @@ import { BannerComponent } from './banner/banner.component';
     <app-products></app-products>
   </section>
   <section>
+    <app-catalogue></app-catalogue>
+  </section>
+  <section>
     <app-footer></app-footer>
   </section>
   `,
   styleUrls: ['./app.component.css'],
-  imports: [NavbarComponent, HeroComponent, ProductsComponent, FooterComponent, BannerComponent]
+  imports: [NavbarComponent, HeroComponent, ProductsComponent, FooterComponent, BannerComponent, CatalogueComponent]
 })
 export class AppComponent {
   title = 'Cheree E-Commerce Web App';
