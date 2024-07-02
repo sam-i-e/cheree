@@ -25,7 +25,7 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/img10.png" alt="Autonomy Icon">
-      <h2>Autonomy self-rule.</h2>
+      <h2>Puma Suede Classic</h2>
       <p>FX has striven to solve blockchain governance, transparency brings.</p>
     </div>
     <div class="feature">
