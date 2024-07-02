@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
   <div class="inner-container">
      <h1>
     Looku 
-    <span class="highlight">Looku</span>ni Moto🔥
+    <span class="highlight">Looku</span> ni Moto🔥
   </h1>
   <h4>Hottest and latest in the 254 </h4>
     <div class="grid">
