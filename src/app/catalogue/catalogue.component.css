@@ -26,9 +26,9 @@
   }
   
   .feature img {
-    width: 50px;
-    height: 50px;
-    margin-bottom: 10px;
+    width: 150px;
+    height: 150px;
+    /* margin-bottom: 10px; */
   }
   
   .feature h2 {

@@ -9,6 +9,16 @@ import { Component } from '@angular/core';
   <h1>The Largest & Best <span>Deriv Money Transfer</span> Service</h1>
   <div class="features">
     <div class="feature">
+      <img src="assets/img7.jpg" alt="Untraceable Icon">
+      <h2>Security Is Our Priority</h2>
+      <p>Sending and receiving addresses as well as transacted amounts.</p>
+    </div>
+    <div class="feature">
+      <img src="assets/untraceable.png" alt="Untraceable Icon">
+      <h2>Security Is Our Priority</h2>
+      <p>Sending and receiving addresses as well as transacted amounts.</p>
+    </div>
+    <div class="feature">
       <img src="assets/untraceable.png" alt="Untraceable Icon">
       <h2>Security Is Our Priority</h2>
       <p>Sending and receiving addresses as well as transacted amounts.</p>
