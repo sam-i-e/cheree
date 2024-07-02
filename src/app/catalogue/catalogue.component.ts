@@ -9,22 +9,22 @@ import { Component } from '@angular/core';
   <h1>The Largest & Best <span>Deriv Money Transfer</span> Service</h1>
   <div class="features">
     <div class="feature">
-      <img src="assets/img7.jpg" alt="Untraceable Icon">
+      <img src="assets/img7.png" alt="Untraceable Icon">
       <h2>Security Is Our Priority</h2>
       <p>Sending and receiving addresses as well as transacted amounts.</p>
     </div>
     <div class="feature">
-      <img src="assets/untraceable.png" alt="Untraceable Icon">
+      <img src="assets/img8.png" alt="Untraceable Icon">
       <h2>Security Is Our Priority</h2>
       <p>Sending and receiving addresses as well as transacted amounts.</p>
     </div>
     <div class="feature">
-      <img src="assets/untraceable.png" alt="Untraceable Icon">
+      <img src="assets/img9.png" alt="Untraceable Icon">
       <h2>Security Is Our Priority</h2>
       <p>Sending and receiving addresses as well as transacted amounts.</p>
     </div>
     <div class="feature">
-      <img src="assets/autonomy-icon.png" alt="Autonomy Icon">
+      <img src="assets/img10.png" alt="Autonomy Icon">
       <h2>Autonomy self-rule.</h2>
       <p>FX has striven to solve blockchain governance, transparency brings.</p>
     </div>
