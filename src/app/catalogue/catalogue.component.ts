@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <div class="crypto-section">
-  <h1>Checkout out <span>Bestsellers</span></h1>
+  <h1>Checkout out our <span>Bestsellers</span></h1>
   <div class="features">
     <div class="feature">
       <img src="assets/img7.jpg" alt="Untraceable Icon">
@@ -30,7 +30,7 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/img11.jpg" alt="Transparency Icon">
-      <h2>Nike Air Force 1</h2>
+      <h2>Adidas Yeezy Boost 350</h2>
       <p>Ksh 2000</p>
     </div>
   </div>
