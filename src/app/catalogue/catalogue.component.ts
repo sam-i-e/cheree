@@ -5,7 +5,26 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-  
+    <div class="crypto-section">
+  <h1>The Largest & Best <span>Deriv Money Transfer</span> Service</h1>
+  <div class="features">
+    <div class="feature">
+      <img src="assets/untraceable.png" alt="Untraceable Icon">
+      <h2>Security Is Our Priority</h2>
+      <p>Sending and receiving addresses as well as transacted amounts.</p>
+    </div>
+    <div class="feature">
+      <img src="assets/autonomy-icon.png" alt="Autonomy Icon">
+      <h2>Autonomy self-rule.</h2>
+      <p>FX has striven to solve blockchain governance, transparency brings.</p>
+    </div>
+    <div class="feature">
+      <img src="assets/transparency-icon.png" alt="Transparency Icon">
+      <h2>Transparency & Stability</h2>
+      <p>In Deriv, transparency brings trust & old strong transparency.</p>
+    </div>
+  </div>
+</div>
   `,
   styleUrl: './catalogue.component.css'
 })
