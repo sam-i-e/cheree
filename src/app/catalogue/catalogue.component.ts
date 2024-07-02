@@ -29,7 +29,7 @@ import { Component } from '@angular/core';
       <p>FX has striven to solve blockchain governance, transparency brings.</p>
     </div>
     <div class="feature">
-      <img src="assets/img11.png" alt="Transparency Icon">
+      <img src="assets/img11.jpg" alt="Transparency Icon">
       <h2>Nike Air Force 1</h2>
       <p>In Deriv, transparency brings trust & old strong transparency.</p>
     </div>
