@@ -2,12 +2,13 @@
 .banner-container {
   background-color: #f8f9fa; /* Light grey background */
   text-align: center; /* Center the text */
-  padding: 3px 0; /* Minimal padding above and below the text for a smaller height */
+  /* padding: 8px 0; */
   height: 28px;
+  padding-bottom: 8px;
 }
 
 .banner-container h1 {
-  font-size: 2rem; /* Smaller font size for the title */
+  font-size: 1.5rem; /* Smaller font size for the title */
   color: #343a40; /* Dark grey color for the text */
   margin-bottom: 5px; /* Minimal space below the title */
 }
