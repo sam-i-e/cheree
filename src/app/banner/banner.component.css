@@ -4,7 +4,7 @@
   text-align: center; /* Center the text */
   /* padding: 8px 0; */
   height: 30px;
-  margin-top: -13px;
+  margin-top: -15px;
   padding-bottom: 8px;
   margin-bottom: 8px;
 }
@@ -17,6 +17,6 @@
 
 .banner-container p {
   font-size: 0.8rem; /* Smaller font size for the tagline */
-  color: #6c757d; /* Medium grey color for the text */
+  color: #70879b; /* Medium grey color for the text */
   margin-bottom: 1.5px; /* Minimal space below the title */
 }
