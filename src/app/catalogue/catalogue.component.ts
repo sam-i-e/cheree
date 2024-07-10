@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <div class="crypto-section">
-  <h1>Checkout out our <span>Bestsellers</span></h1>
+  <h1>Checkout our <span>Bestsellers</span></h1>
   <div class="features">
     <div class="feature">
       <img src="assets/img7.jpg" alt="Untraceable Icon">
