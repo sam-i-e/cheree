@@ -15,6 +15,6 @@ import { Component } from '@angular/core';
 })
 export class BannerComponent {
   // Properties for the banner such as title, tagline, etc.
-  title: string = 'Thrift Fashion Finds';
+  title: string = 'Revamp Your Wardrobe Without Breaking the Bank';
   tagline: string = 'Discover unique clothing at unbeatable prices!';
 }

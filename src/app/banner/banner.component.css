@@ -2,7 +2,8 @@
 .banner-container {
   background-color: #f8f9fa; /* Light grey background */
   text-align: center; /* Center the text */
-  padding: 10px 0; /* Minimal padding above and below the text for a smaller height */
+  padding: 3px 0; /* Minimal padding above and below the text for a smaller height */
+  height: 8px;
 }
 
 .banner-container h1 {
