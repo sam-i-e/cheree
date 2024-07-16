@@ -6,7 +6,7 @@
   .crypto-section h1 {
     font-size: 2em;
     margin-bottom: 20px;
-    font-weight: 183;
+    font-weight: 184;
   }
   
   .crypto-section span {
@@ -21,7 +21,7 @@
   
   .feature {
     flex: 1;
-    min-width: 200px;
+    min-width: 201px;
     margin: 20px;
     text-align: center;
   }
