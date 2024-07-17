@@ -21,7 +21,7 @@
   
   .feature {
     flex: 1;
-    min-width: 224px;
+    min-width: 200px;
     margin: 20px;
     text-align: center;
   }
