@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-hats',
   standalone: true,
   imports: [],
-  templateUrl: './hats.component.html',
+  template: '',
   styleUrl: './hats.component.css'
 })
 export class HatsComponent {
