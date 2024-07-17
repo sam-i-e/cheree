@@ -5,6 +5,8 @@ import { ProductsComponent } from './products/products.component';
 import { FooterComponent } from './footer/footer.component';
 import { BannerComponent } from './banner/banner.component';
 import { CatalogueComponent } from './catalogue/catalogue.component';
+import { HammerGestureConfig } from '@angular/platform-browser';
+import { HatsComponent } from './hats/hats.component';
 
 @Component({
   standalone: true,
@@ -25,11 +27,14 @@ import { CatalogueComponent } from './catalogue/catalogue.component';
     <app-catalogue></app-catalogue>
   </section>
   <section>
+    <app-hats></app-hats>
+  </section>
+  <section>
     <app-footer></app-footer>
   </section>
   `,
   styleUrls: ['./app.component.css'],
-  imports: [NavbarComponent, HeroComponent, ProductsComponent, FooterComponent, BannerComponent, CatalogueComponent]
+  imports: [NavbarComponent, HeroComponent, HatsComponent, ProductsComponent, FooterComponent, BannerComponent, CatalogueComponent]
 })
 export class AppComponent {
   title = 'Cheree E-Commerce Web App';
