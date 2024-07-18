@@ -29,8 +29,8 @@ import { Component } from '@angular/core';
       <p>Ksh 1999.</p>
     </div>
     <div class="feature">
-      <img src="assets/img11.jpg" alt="Transparency Icon">
-      <h2>Adidas Yeezy Boost 350</h2>
+      <img src="assets/hat5.jpg" alt="Transparency Icon">
+      <h2>Vintage-Black Suede Trucker Hat</h2>
       <p>Ksh 2000</p>
     </div>
   </div>
