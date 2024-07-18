@@ -30,7 +30,7 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/img11.jpg" alt="Transparency Icon">
-      <h2>Adidas Yeezy Boost 350</h2>
+      <h4>Adidas Yeezy Boost 350</h4>
       <p>Ksh 2000</p>
     </div>
   </div>
