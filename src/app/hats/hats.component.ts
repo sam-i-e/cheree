@@ -10,12 +10,12 @@ import { Component } from '@angular/core';
   <div class="features">
     <div class="feature">
       <img src="assets/hat1.jpg" alt="Untraceable Icon">
-      <h2>All white Baseball Trucker Hat</h2>
+      <h4>All white Baseball Trucker Hat</h4>
       <p>Ksh 2500.</p>
     </div>
     <div class="feature">
       <img src="assets/hat2.jpg" alt="Untraceable Icon">
-      <h2>Blue Champion Trucker Hat</h2>
+      <h4>Blue Champion Trucker Hat</h4>
       <p>Ksh 1700.</p>
     </div>
     <div class="feature">
