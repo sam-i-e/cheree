@@ -30,7 +30,7 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/hat5.jpg" alt="Transparency Icon">
-      <h4>Vintage-Black Suede Trucker Hat (Khaligraph Jones Edition)</h4>
+      <h4>Vintage-Black Suede Trucker Hat (Khaligraph Jones Edition 🔥)</h4>
       <p>Ksh 1499</p>
     </div>
   </div>
