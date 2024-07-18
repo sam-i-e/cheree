@@ -25,7 +25,7 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/img10.jpg" alt="Autonomy Icon">
-      <h2>Converse Chuck Taylor All Star</h2>
+      <h4>Converse Chuck Taylor All Star</h4>
       <p>Ksh 1999.</p>
     </div>
     <div class="feature">
