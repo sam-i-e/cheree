@@ -25,12 +25,12 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/hat4.jpg" alt="Autonomy Icon">
-      <h2>Converse Chuck Taylor All Star</h2>
+      <h4>Converse Chuck Taylor All Star</h4>
       <p>Ksh 1999.</p>
     </div>
     <div class="feature">
       <img src="assets/hat5.jpg" alt="Transparency Icon">
-      <h2>Vintage-Black Suede Trucker Hat</h2>
+      <h4>Vintage-Black Suede Trucker Hat</h4>
       <p>Ksh 1499</p>
     </div>
   </div>
