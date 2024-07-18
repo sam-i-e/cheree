@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
   <div class="features">
     <div class="feature">
       <img src="assets/img7.jpg" alt="Untraceable Icon">
-      <h2>Nike Air Max 97</h2>
+      <h4>Nike Air Max 97</h4>
       <p>Ksh 2500.</p>
     </div>
     <div class="feature">
