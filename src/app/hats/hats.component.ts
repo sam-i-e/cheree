@@ -31,7 +31,7 @@ import { Component } from '@angular/core';
     <div class="feature">
       <img src="assets/hat5.jpg" alt="Transparency Icon">
       <h2>Vintage-Black Suede Trucker Hat</h2>
-      <p>Ksh 2000</p>
+      <p>Ksh 1499</p>
     </div>
   </div>
 </div>
