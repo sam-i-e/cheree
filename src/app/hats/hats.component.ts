@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
     <div class="feature">
       <img src="assets/hat1.jpg" alt="Untraceable Icon">
       <h4>All white Baseball Trucker Hat</h4>
-      <p>Ksh 2500.</p>
+      <p>Ksh 1499.</p>
     </div>
     <div class="feature">
       <img src="assets/hat2.jpg" alt="Untraceable Icon">
