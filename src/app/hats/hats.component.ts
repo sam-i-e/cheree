@@ -20,7 +20,7 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/hat3.jpg" alt="Untraceable Icon">
-      <h2>Vintage-USA Trucker Hat</h2>
+      <h4>Vintage-USA Trucker Hat</h4>
       <p>Ksh 1499</p>
     </div>
     <div class="feature">
