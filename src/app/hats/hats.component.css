@@ -1,6 +1,7 @@
 .crypto-section {
     text-align: center;
     padding: 20px;
+    background: linear-gradient(to bottom, #fcfcfc, #ececea);
   }
   
   .crypto-section h1 {
