@@ -24,7 +24,7 @@ import { Component } from '@angular/core';
       <p>Ksh 1499</p>
     </div>
     <div class="feature">
-      <img src="assets/img10.jpg" alt="Autonomy Icon">
+      <img src="assets/hat4.jpg" alt="Autonomy Icon">
       <h2>Converse Chuck Taylor All Star</h2>
       <p>Ksh 1999.</p>
     </div>
