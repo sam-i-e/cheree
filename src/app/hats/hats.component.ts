@@ -25,8 +25,8 @@ import { Component } from '@angular/core';
     </div>
     <div class="feature">
       <img src="assets/hat4.jpg" alt="Autonomy Icon">
-      <h4>Converse Chuck Taylor All Star</h4>
-      <p>Ksh 1999.</p>
+      <h4>Vintage-Champion Trucker Hat</h4>
+      <p>Ksh 1499.</p>
     </div>
     <div class="feature">
       <img src="assets/hat5.jpg" alt="Transparency Icon">
