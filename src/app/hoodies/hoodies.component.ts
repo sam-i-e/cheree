@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-hoodies',
   standalone: true,
   imports: [],
-  template: './hoodies.component.ht,
+  template: './hoodies.component.h,
   styleUrl: './hoodies.component.css'
 })
 export class HoodiesComponent {
