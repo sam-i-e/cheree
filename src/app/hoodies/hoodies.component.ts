@@ -4,7 +4,38 @@ import { Component } from '@angular/core';
   selector: 'app-hoodies',
   standalone: true,
   imports: [],
-  template: 
+  template: `
+  <div class="crypto-section">
+  <h1><span>Vintage</span> Hat Collection</h1>
+  <div class="features">
+    <div class="feature">
+      <img src="assets/hat1.jpg" alt="Untraceable Icon">
+      <h4>All white Baseball Trucker Hat</h4>
+      <p>Ksh 1499.</p>
+    </div>
+    <div class="feature">
+      <img src="assets/hat2.jpg" alt="Untraceable Icon">
+      <h4>Blue Champion Trucker Hat</h4>
+      <p>Ksh 1499.</p>
+    </div>
+    <div class="feature">
+      <img src="assets/hat3.jpg" alt="Untraceable Icon">
+      <h4>Vintage-USA Trucker Hat</h4>
+      <p>Ksh 1499</p>
+    </div>
+    <div class="feature">
+      <img src="assets/hat4.jpg" alt="Autonomy Icon">
+      <h4>Vintage-Champion Trucker Hat</h4>
+      <p>Ksh 1499.</p>
+    </div>
+    <div class="feature">
+      <img src="assets/hat5.jpg" alt="Transparency Icon">
+      <h4>Vintage-Black Suede Trucker Hat (Khaligraph Jones Edition 🔥)</h4>
+      <p>Ksh 1499</p>
+    </div>
+  </div>
+</div>
+  `
   styleUrl: './hoodies.component.css'
 })
 export class HoodiesComponent {
