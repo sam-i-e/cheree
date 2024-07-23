@@ -11,11 +11,11 @@
   .footer-container {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   
   .footer-section {
-    width: 22%;
+    width: 20%;
   }
   
   .footer-section h3 {
