@@ -35,8 +35,8 @@ import { Component } from '@angular/core';
     </div>
   </div>
 </div>
-  `
-  styleUrl: './hoodies.component.css'
+  `,
+  styleUrl:'./hoodies.component.css'
 })
 export class HoodiesComponent {
 
