@@ -29,7 +29,7 @@ import { Component } from '@angular/core';
       <p>Ksh 1499.</p>
     </div>
     <div class="feature">
-      <img src="assets/hat5.jpg" alt="Transparency Icon">
+      <img src="assets/hoodies5.jpg" alt="Transparency Icon">
       <h4>Vintage-Black Suede Trucker Hat (Khaligraph Jones Edition 🔥)</h4>
       <p>Ksh 1499</p>
     </div>
