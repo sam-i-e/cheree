@@ -8,7 +8,7 @@ import { CatalogueComponent } from './catalogue/catalogue.component';
 import { HammerGestureConfig } from '@angular/platform-browser';
 import { HatsComponent } from './hats/hats.component';
 import { HoodiesComponent } from './hoodies/hoodies.component';
-import { blog, BlogComponent } from './blog/blog.component';
+import { BlogComponent } from './blog/blog.component';
 
 @Component({
   standalone: true,
