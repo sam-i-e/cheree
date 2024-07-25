@@ -28,6 +28,9 @@ import { HoodiesComponent } from './hoodies/hoodies.component';
     <app-catalogue></app-catalogue>
   </section>
   <section>
+    <app-blog1></app-blog1>
+  </section>
+  <section>
     <app-hats></app-hats>
   </section>
   <section>
