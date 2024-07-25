@@ -37,10 +37,10 @@ export class BlogComponent {
       title: 'Mastercard and SwiftCash to Revolutionize Cross Border Money...',
       description: 'Nairobi, Kenya 12th April 2024... Mastercard and SwiftCash have announced a strategic...',
     },
-    // {
-    //   image: 'path-to-image4.jpg',
-    //   title: 'EazzyBiz with SC',
-    //   description: 'EazzyBiz has all the tools designed to ensure that you can maintain your competitive advantage...',
-    // },
+    {
+      image: 'path-to-image4.jpg',
+      title: 'EazzyBiz with SC',
+      description: 'EazzyBiz has all the tools designed to ensure that you can maintain your competitive advantage...',
+    },
   ];
 }
