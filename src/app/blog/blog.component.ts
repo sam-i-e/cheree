@@ -23,7 +23,7 @@ import { CommonModule } from '@angular/common';
 export class BlogComponent {
   items = [
     {
-      image: 'assets/user1.jpg',
+      image: 'assets/img1.jpg',
       title: 'SwiftCash Recognized at Think Business Banking Awards with Top...',
       description: 'SwiftCash emerged as a top performer at the 20th Edition of the Think Business Banking...',
     },
