@@ -29,7 +29,7 @@ import { blog1, Blog1Component } from './blog1/blog1.component';
     <app-catalogue></app-catalogue>
   </section>
   <section>
-    <app-blog1></app-blog1>
+    <app-blog></app-blog>
   </section>
   <section>
     <app-hats></app-hats>
