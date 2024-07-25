@@ -5,7 +5,7 @@
   
   .cards-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     overflow-x: hidden;
     padding: 5px 0;
   }
@@ -20,7 +20,7 @@
     padding: 20px;
     text-align: left;
     transition: transform 0.3s;
-    max-width: 500px;
+    max-width: 700px;
   }
   
   .card img {
