@@ -28,19 +28,19 @@ export class BlogComponent {
       description: 'SwiftCash emerged as a top performer at the 20th Edition of the Think Business Banking...',
     },
     {
-      image: 'path-to-image2.jpg',
+      image: 'assets/img5.jpg',
       title: 'SwiftCash Group Holdings Registers Strong Recovery',
       description: 'Nairobi Monday 13th May 2024... After reporting a 5% decline in profit after tax for the...',
     },
     {
-      image: 'path-to-image3.jpg',
+      image: 'assets/Herooo.jpg',
       title: 'Mastercard and SwiftCash to Revolutionize Cross Border Money...',
       description: 'Nairobi, Kenya 12th April 2024... Mastercard and SwiftCash have announced a strategic...',
     },
-    {
-      image: 'path-to-image4.jpg',
-      title: 'EazzyBiz with SC',
-      description: 'EazzyBiz has all the tools designed to ensure that you can maintain your competitive advantage...',
-    },
+    // {
+    //   image: 'path-to-image4.jpg',
+    //   title: 'EazzyBiz with SC',
+    //   description: 'EazzyBiz has all the tools designed to ensure that you can maintain your competitive advantage...',
+    // },
   ];
 }
