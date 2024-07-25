@@ -65,6 +65,8 @@
   }
   
   .card button:hover {
-    background-color: #c12727;
+    /* background-color: #c12727; */
+    color: #faf8f8;
+    background-color: rgb(7, 7, 7);
   }
   
