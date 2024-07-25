@@ -24,8 +24,8 @@ export class BlogComponent {
   items = [
     {
       image: 'assets/img1.jpg',
-      title: 'SwiftCash Recognized at Think Business Banking Awards with Top...',
-      description: 'SwiftCash emerged as a top performer at the 20th Edition of the Think Business Banking...',
+      title: 'Sustainable Fashion: Why Thrifting is the Future',
+      description: 'As the fashion industry continues to grow, so does its impact on the environment. At Cheree, we believe in promoting sustainable fashion through thrifting. By purchasing pre-loved items, you are not only saving money but also reducing waste and conserving resources. Join us in making a positive impact on the planet, one stylish outfit at a time.',
     },
     {
       image: 'assets/img5.jpg',
@@ -35,7 +35,7 @@ export class BlogComponent {
     {
       image: 'assets/Herooo.jpg',
       title: 'Sustainable Fashion: Why Thrifting is the Future',
-      description: 'Welcome to the hub of Sneaker and Streetwear Excellence',
+      description: 'As the fashion industry continues to grow, so does its impact on the environment. At Cheree, we believe in promoting sustainable fashion through thrifting. By purchasing pre-loved items, you are not only saving money but also reducing waste and conserving resources. Join us in making a positive impact on the planet, one stylish outfit at a time',
     },
     // {
     //   image: 'path-to-image4.jpg',
