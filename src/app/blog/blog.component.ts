@@ -4,7 +4,7 @@ import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-blog',
   standalone: true,
-  imports: [],
+  imports: [CommonModule],
   template: `
   <div class="marketing-container">
       <h2>Stay up to date on the latest news and Products</h2>
