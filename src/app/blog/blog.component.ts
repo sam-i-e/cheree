@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
   <div class="marketing-container">
       <h2>Stay up to date on the latest news and Products</h2>
       <div class="cards-container">
-        <div class="card" *ngFor="let item of items">
+        <div class="card" *="let item of items">
           <img [src]="item.image" alt="News Image">
           <h3>{{ item.title }}</h3>
           <p>{{ item.description }}</p>
