@@ -34,8 +34,8 @@ export class BlogComponent {
     },
     {
       image: 'assets/Herooo.jpg',
-      title: 'Mastercard and SwiftCash to Revolutionize Cross Border Money...',
-      description: 'Nairobi, Kenya 12th April 2024... Mastercard and SwiftCash have announced a strategic...',
+      title: 'Sustainable Fashion: Why Thrifting is the Future',
+      description: 'Welcome to the hub of Sneaker and Streetwear Excellence',
     },
     // {
     //   image: 'path-to-image4.jpg',
